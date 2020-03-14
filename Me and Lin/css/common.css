@@ -1,25 +1,23 @@
 
 #am1{
-    background-image: url("img/1.png");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-attachment: fixed;
-
+    background-color: bisque;
 }
 #am2{
 
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
 }
 .am3{
 
     text-align: center;
 }
-/*#am4{
-
-    <img src="css/img/1.png" alt="" id="am4">
-    width: 800px;
-    height: 800px;
+.am4{
+    width: 500px;
+    height: 150px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    text-align: center;
+    margin: 50px auto;
 }
 
 /*background-image: url("img/1.png")
