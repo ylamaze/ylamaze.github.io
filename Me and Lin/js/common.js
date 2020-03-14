@@ -1,3 +1,11 @@
+<div id="txt">
+    <textarea  id="text" value="" cols="80" rows="10"></textarea><br>
+    <button  type="button" id="btn">评论留言</button>
+    <div id="lis">
+    <ol id="text_li">
+    </ol>
+    </div>
+    </div>
 var tet= document.getElementById("text");
 var butt= document.getElementById("btn");
 var tet_li= document.getElementById("text_li");
