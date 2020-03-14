@@ -1,0 +1,27 @@
+
+#am1{
+    height: 100%;
+    width: 100%;
+    background: url('img/0.jpg') no-repeat;
+    background-size: cover;
+    position: absolute;
+    overflow: hidden;
+}
+.am2{
+    font-size: 50px;
+    text-align: center;
+
+}
+.am3{
+    text-align: center;
+
+}
+#text{
+
+    text-align: center;
+    margin: 0px 450px;
+}
+#btn{
+    text-align: center;
+    margin: 0px 500px;
+}
