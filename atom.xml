@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-30T03:14:29.421Z</updated>
+  <updated>2020-03-30T03:27:16.842Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/03/30/%E6%9E%81%E9%99%90%E4%B8%8E%E8%BF%9E%E7%BB%AD/"/>
     <id>http://yoursite.com/2020/03/30/%E6%9E%81%E9%99%90%E4%B8%8E%E8%BF%9E%E7%BB%AD/</id>
     <published>2020-03-30T00:29:10.000Z</published>
-    <updated>2020-03-30T03:14:29.421Z</updated>
+    <updated>2020-03-30T03:27:16.842Z</updated>
     
-    <content type="html"><![CDATA[<p>汤神的极限与连续部分视频已经看完，总结出如下重要的内容</p><a id="more"></a><h2 id="类型一n项和求极限"><a class="markdownIt-Anchor" href="#类型一n项和求极限"></a> 类型一（N项和求极限）</h2><ul><li><font color="#87CEFA">N项相加求极限，分子分母不齐用夹逼定律</font></li><li><font color="#FFB6C1">齐不动动非齐，齐不齐看次数</font></li></ul><p>例：</p> \[{x_{1,2}} = \frac{{ - b \pm \sqrt {{b^2} - 4ac} }}{{2a}}\] ]]></content>
+    <content type="html"><![CDATA[<p>汤神的极限与连续部分视频已经看完，总结出如下重要的内容</p><a id="more"></a><h2 id="类型一n项和求极限"><a class="markdownIt-Anchor" href="#类型一n项和求极限"></a> 类型一（N项和求极限）</h2><ul><li><font color="#87CEFA">N项相加求极限，分子分母不齐用夹逼定律</font></li><li><font color="#FFB6C1">齐不动动非齐，齐不齐看次数</font></li></ul><p>例：</p>\[\mathop {\lim }\limits_{n \to \infty } (\frac{1}{{\sqrt {{n^2} + 1} }} + \frac{1}{{\sqrt {{n^2} + 2} }} + \frac{1}{{\sqrt {{n^2} + 3} }} + ...... + \frac{1}{{\sqrt {{n^2} + n} }})\]]]></content>
     
     <summary type="html">
     
