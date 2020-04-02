@@ -29,7 +29,7 @@
 <meta property="og:description" content="汤神的导数与微分部分视频已经看完，总结出如下重要的内容">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2020-03-31T07:44:49.000Z">
-<meta property="article:modified_time" content="2020-03-31T08:13:21.913Z">
+<meta property="article:modified_time" content="2020-04-02T03:27:42.920Z">
 <meta property="article:author" content="Amaze">
 <meta property="article:tag" content="高数">
 <meta name="twitter:card" content="summary">
@@ -209,10 +209,16 @@
                 <i class="fa fa-calendar-o"></i>
               </span>
               <span class="post-meta-item-text">发表于</span>
-              
 
-              <time title="创建时间：2020-03-31 15:44:49 / 修改时间：16:13:21" itemprop="dateCreated datePublished" datetime="2020-03-31T15:44:49+08:00">2020-03-31</time>
+              <time title="创建时间：2020-03-31 15:44:49" itemprop="dateCreated datePublished" datetime="2020-03-31T15:44:49+08:00">2020-03-31</time>
             </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2020-04-02 11:27:42" itemprop="dateModified" datetime="2020-04-02T11:27:42+08:00">2020-04-02</time>
+              </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
                 <i class="fa fa-folder-o"></i>
@@ -257,6 +263,14 @@
       
         <center>汤神的导数与微分部分视频已经看完，总结出如下重要的内容</center>
 <a id="more"></a>
+<h2 id="重要知识点"><a class="markdownIt-Anchor" href="#重要知识点"></a> 重要知识点</h2>
+<ul>
+<li>1.可导必连续，连续不一定可导。</li>
+<li>2.可导可以等价于可微。$dy = f'(x)dx$</li>
+<li><font color="#87CEFA">3.看到$f(x)连续{\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} \mathop {\lim }\limits_{x \to a} \frac{{f(x) - b}}{{x - a}} = A$必要想到：</font><br />
+<font color="#FFB6C1">$f(a) = b,f'(a) = A$</font></li>
+<li>4.等待补充</li>
+</ul>
 <h2 id="六类重要求导公式"><a class="markdownIt-Anchor" href="#六类重要求导公式"></a> 六类重要求导公式</h2>
 
 \[\begin{array}{l}
@@ -272,6 +286,83 @@
 6.{\mathop{\rm arcsi}\nolimits} n'x = \frac{1}{{\sqrt {1 - {x^2}} }}{\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\mathop{\rm arcco}\nolimits} s'x =  - \frac{1}{{\sqrt {1 - {x^2}} }}\\
 {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\mathop{\rm arcta}\nolimits} n'x = \frac{1}{{1 + {x^2}}}{\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\mathop{\rm arcco}\nolimits} t'x =  - \frac{1}{{1 + {x^2}}}\\
 \end{array}\]
+
+<h2 id="类型一-显函数求导"><a class="markdownIt-Anchor" href="#类型一-显函数求导"></a> 类型一 显函数求导</h2>
+<ul>
+<li>没有难度，直接求导。</li>
+</ul>
+<hr />
+<h2 id="类型二-复合函数求导"><a class="markdownIt-Anchor" href="#类型二-复合函数求导"></a> 类型二 复合函数求导</h2>
+<ul>
+<li>利用公式，四则求导法则，一层一层的求导。</li>
+</ul>
+<hr />
+<h2 id="类型三-隐函数求导font-colororangered重点font"><a class="markdownIt-Anchor" href="#类型三-隐函数求导font-colororangered重点font"></a> 类型三 隐函数求导<font color="OrangeRed">（重点）</font></h2>
+
+\[\begin{array}{l}
+{\rm{y}} = f(x) \to显函数 \\
+F(x,y) = 0 \to 隐函数
+\end{array}\]
+
+<p>例：</p>
+
+\[\begin{array}{l}
+{e^{xy}} = {x^2} + {y^2} + 1{\kern 1pt} {\kern 1pt} 求{\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} \frac{{dy}}{{dx}}\\
+ \Rightarrow {e^{xy}}(y + xy') = 2x + 2yy'
+\end{array}\]
+
+<hr />
+<h2 id="类型四-参数方程求导"><a class="markdownIt-Anchor" href="#类型四-参数方程求导"></a> 类型四 参数方程求导</h2>
+<ul>
+<li>第一种</li>
+</ul>
+
+\[\left\{ {\begin{array}{*{20}{c}}
+{x = \varphi (x)}\\
+{y = \psi (x)}
+\end{array}}求\right.{\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} \frac{{dy}}{{dx}},{\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} \frac{{{d^2}y}}{{d{x^2}}}\]
+
+<p>例：</p>
+
+\[\begin{array}{l}
+\left\{ {\begin{array}{*{20}{c}}
+{x = \arctan t}\\
+{y = \ln (1 + {t^2})}
+\end{array}} 求\right.{\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} \frac{{{d^2}y}}{{d{x^2}}}\\
+\frac{{dy}}{{dx}} = \frac{{dy/dt}}{{dx/dt}} = \frac{{\frac{{2t}}{{1{\rm{ + }}{{\rm{t}}^2}}}}}{{\frac{1}{{1{\rm{ + }}{{\rm{t}}^2}}}}} = 2t\\
+\frac{{{d^2}y}}{{d{x^2}}} = \frac{{d(\frac{{dy}}{{dx}})}}{{dx}} = \frac{{d(2t)/dt}}{{dx/dt}} = \frac{2}{{\frac{1}{{1{\rm{ + }}{{\rm{t}}^2}}}}} = 2(1 + {t^2})
+\end{array}\]
+
+<ul>
+<li>第二种</li>
+</ul>
+
+\[\left\{ {\begin{array}{*{20}{c}}
+{f(x,t) = 0}\\
+{g(y,t) = 0}
+\end{array}求{\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} \frac{{dy}}{{dx}}} \right.\]
+
+<p>例:</p>
+
+\[\begin{array}{l}
+\left\{ {\begin{array}{*{20}{c}}
+{\sin (x + t) = xt}\\
+{{e^{ty}} = y + t + {\rm{1}}}
+\end{array}{\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} \frac{{{\rm{dy}}}}{{dx}}} \right.\\
+\frac{{{\rm{dy}}}}{{dx}} = \frac{{{\rm{dy/dt}}}}{{dx/dt}}\\
+ \Rightarrow {e^{yt}}(y + ty') = y' + 1\\
+{\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} {\kern 1pt} \cos (x + t)(1 + x') = (x + tx')\\
+......
+\end{array}\]
+
+<hr />
+<h2 id="类型五-分段函数求导"><a class="markdownIt-Anchor" href="#类型五-分段函数求导"></a> 类型五 分段函数求导</h2>
+<ul>
+<li>注意交汇点</li>
+</ul>
+<hr />
+<h2 id="类型六-高阶导数"><a class="markdownIt-Anchor" href="#类型六-高阶导数"></a> 类型六 高阶导数</h2>
+
 
 
     </div>
@@ -355,7 +446,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#六类重要求导公式"><span class="nav-number">1.</span> <span class="nav-text"> 六类重要求导公式</span></a></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#重要知识点"><span class="nav-number">1.</span> <span class="nav-text"> 重要知识点</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#六类重要求导公式"><span class="nav-number">2.</span> <span class="nav-text"> 六类重要求导公式</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#类型一-显函数求导"><span class="nav-number">3.</span> <span class="nav-text"> 类型一 显函数求导</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#类型二-复合函数求导"><span class="nav-number">4.</span> <span class="nav-text"> 类型二 复合函数求导</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#类型三-隐函数求导font-colororangered重点font"><span class="nav-number">5.</span> <span class="nav-text"> 类型三 隐函数求导（重点）</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#类型四-参数方程求导"><span class="nav-number">6.</span> <span class="nav-text"> 类型四 参数方程求导</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#类型五-分段函数求导"><span class="nav-number">7.</span> <span class="nav-text"> 类型五 分段函数求导</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#类型六-高阶导数"><span class="nav-number">8.</span> <span class="nav-text"> 类型六 高阶导数</span></a></li></ol></div>
       </div>
       <!--/noindex-->
 
