@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-05-29T11:13:34.860Z</updated>
+  <updated>2021-05-29T11:16:46.893Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,17 @@
     <link href="http://yoursite.com/2021/05/29/%E7%AD%94%E8%BE%A9/"/>
     <id>http://yoursite.com/2021/05/29/%E7%AD%94%E8%BE%A9/</id>
     <published>2021-05-29T11:10:24.000Z</published>
-    <updated>2021-05-29T11:13:34.860Z</updated>
+    <updated>2021-05-29T11:16:46.893Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="开场"><a class="markdownIt-Anchor" href="#开场"></a> 开场</h1><p>​        各位老师，上午好！我叫杨亮，是17级自控2班的学生，我的论文题目是基于STM32的空气能热水系统智能控制器的设计。论文是在王孚贵导师的悉心指点下完成的，在这里我向我的导师表示深深的谢意，也向各位老师不辞辛苦参加我的论文答辩表示衷心的感谢。下面我将分别从选题背景、论文结构、分析讨论、主要结论、和实物展示5个方面向各位老师作一汇报，恳请各位老师批评指导。</p><h1 id="内容"><a class="markdownIt-Anchor" href="#内容"></a> 内容</h1><ul><li><p>首先，我想谈谈这个毕业论文设计的选题背景。</p><p>1924年空气能热泵技术才在国外被发明，空气能热水器机组往往都是一台主机和数量众多的从机，从而需要的空间比较大，一般安放在顶楼。故而难以对空气能热水器机组进行实时监控，因此将互联网技术和空气能热水控制器进行结合非常有必要。</p></li><li><p>其次，我想谈谈这篇论文的结构。本文分成5个部分。<br />第一部分是绪论。这部分主要论述此设计要实现的功能，和国内外的发展概况。<br />第二部分是硬件设计。这部分详细分析了各个模块的电路和一些传感器的详细参数。<br />第三部分是软件设计。这部分对软件部分进行了规划设计，设计了各个模块的流程图。<br />第四部分是系统的调试。这部分对设计的实物进行展示。<br />第五部分是成果总结。主要是我对此次设计的反思和总结。</p></li><li><p>然后，我想讲讲我对于毕业设计做了哪些工作。</p></li></ul><h1 id="结束语"><a class="markdownIt-Anchor" href="#结束语"></a> 结束语</h1><ul><li><p>最后，我想谈谈此设计的结论和存在的不足。</p><p>1.硬件电路的设计需要有总体思路，要有大的框架。在功能模块的划分中，在本次设计中我将其分为6个部分。分为电源、最小系统、继电器控制、水流电流液位、NTC测温、A9通信。</p><p>2.部分模块进行独立设计，本次设计流量采集、液位与电流转电压模块，便于传感器的更换需要进行独立设计。</p><p>3.AD软件使用可以提高效率，元件封装库和原理图库可以快速获取。</p><p>4.不足之处，还有部分模块应进行独立，板子集成度不够高。</p></li><li><p>这篇论文的写作以及修改的过程，也是我越来越认识到自己知识与经验缺乏的过程。虽然，我尽可能地收集材料，竭尽所能运用自己所学的知识进行论文写作，但论文还是存在许多不足之处，有待改进。请各位评委老师多批评指正，让我在今后的学习中学到更多。<br />谢谢！</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<a id="more"></a><h1 id="开场"><a class="markdownIt-Anchor" href="#开场"></a> 开场</h1><p>​        各位老师，上午好！我叫杨亮，是17级自控2班的学生，我的论文题目是基于STM32的空气能热水系统智能控制器的设计。论文是在王孚贵导师的悉心指点下完成的，在这里我向我的导师表示深深的谢意，也向各位老师不辞辛苦参加我的论文答辩表示衷心的感谢。下面我将分别从选题背景、论文结构、分析讨论、主要结论、和实物展示5个方面向各位老师作一汇报，恳请各位老师批评指导。</p><h1 id="内容"><a class="markdownIt-Anchor" href="#内容"></a> 内容</h1><ul><li><p>首先，我想谈谈这个毕业论文设计的选题背景。</p><p>1924年空气能热泵技术才在国外被发明，空气能热水器机组往往都是一台主机和数量众多的从机，从而需要的空间比较大，一般安放在顶楼。故而难以对空气能热水器机组进行实时监控，因此将互联网技术和空气能热水控制器进行结合非常有必要。</p></li><li><p>其次，我想谈谈这篇论文的结构。本文分成5个部分。<br />第一部分是绪论。这部分主要论述此设计要实现的功能，和国内外的发展概况。<br />第二部分是硬件设计。这部分详细分析了各个模块的电路和一些传感器的详细参数。<br />第三部分是软件设计。这部分对软件部分进行了规划设计，设计了各个模块的流程图。<br />第四部分是系统的调试。这部分对设计的实物进行展示。<br />第五部分是成果总结。主要是我对此次设计的反思和总结。</p></li><li><p>然后，我想讲讲我对于毕业设计做了哪些工作。</p></li></ul><h1 id="结束语"><a class="markdownIt-Anchor" href="#结束语"></a> 结束语</h1><ul><li><p>最后，我想谈谈此设计的结论和存在的不足。</p><p>1.硬件电路的设计需要有总体思路，要有大的框架。在功能模块的划分中，在本次设计中我将其分为6个部分。分为电源、最小系统、继电器控制、水流电流液位、NTC测温、A9通信。</p><p>2.部分模块进行独立设计，本次设计流量采集、液位与电流转电压模块，便于传感器的更换需要进行独立设计。</p><p>3.AD软件使用可以提高效率，元件封装库和原理图库可以快速获取。</p><p>4.不足之处，还有部分模块应进行独立，板子集成度不够高。</p></li><li><p>这篇论文的写作以及修改的过程，也是我越来越认识到自己知识与经验缺乏的过程。虽然，我尽可能地收集材料，竭尽所能运用自己所学的知识进行论文写作，但论文还是存在许多不足之处，有待改进。请各位评委老师多批评指正，让我在今后的学习中学到更多。<br />谢谢！</p></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;开场&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#开场&quot;&gt;&lt;/a&gt; 开场&lt;/h1&gt;
-&lt;p&gt;​        各位老师，上午好！我叫杨亮，是17级自控2班的学生，我的论文题目是基于STM32的空气能热水系统智能控制器的设计。论文是在王孚
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;开场&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#开场&quot;&gt;&lt;/a&gt; 开场&lt;/h1&gt;
+&lt;p&gt;​        各位老师，上午好！我叫杨亮，是17级自控2班的学生，我的论文题目是基于STM32的空气能热
       
     
     </summary>
@@ -44,20 +45,20 @@
     <link href="http://yoursite.com/2021/02/06/JAVA-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/"/>
     <id>http://yoursite.com/2021/02/06/JAVA-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</id>
     <published>2021-02-06T06:37:19.000Z</published>
-    <updated>2021-02-06T09:07:36.130Z</updated>
+    <updated>2021-05-29T11:17:17.251Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="1注释"><a class="markdownIt-Anchor" href="#1注释"></a> 1.注释</h1><ul><li>注释不会被执行，书写注释是一个非常好的习惯<ul><li>单行注释 (//文字)</li><li>多行注释（/* 文字 */）</li><li>文档注释,JavaDoc(/**  */)</li></ul></li></ul><h1 id="2标识符"><a class="markdownIt-Anchor" href="#2标识符"></a> 2.标识符</h1><ul><li>java所有的组成部分都需要名字。类名，变量名字以及方法名都被称为标识符。</li><li>所有的标识符都是以大小写字母，$，下划线开始（不能以数字，#之类的开头）</li><li>不能用关键字作为变量名或方法名</li><li><strong>标识符是大小写敏感的</strong></li></ul><h1 id="3数据类型"><a class="markdownIt-Anchor" href="#3数据类型"></a> 3.数据类型</h1><ul><li>强类型语言，要求变量的使用要严格符合规定，所有变量都必须先定义后才能使用</li><li>java的数据类型可以分为两类<ul><li>基本类型（primitive type）</li><li>引用类型（reference type）</li></ul></li><li>基本数据类型<ul><li>整数类型<ul><li>byte——占一个字节范围</li><li>short——占2个字节范围</li><li>int——占4个字节范围</li><li>long——占领8个字节范围，要在数字后面加个L</li></ul></li><li>浮点类型<ul><li>float ——占个4字节</li><li>double——占8个字节</li></ul></li><li>字符类型<ul><li>char——占2个字节</li></ul></li></ul></li><li>布尔数据类型——占一位其值只有true和false两个</li><li>应用数据类型、<ul><li>类</li><li>接口</li><li>数组</li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<a id="more"></a><h1 id="1注释"><a class="markdownIt-Anchor" href="#1注释"></a> 1.注释</h1><ul><li>注释不会被执行，书写注释是一个非常好的习惯<ul><li>单行注释 (//文字)</li><li>多行注释（/* 文字 */）</li><li>文档注释,JavaDoc(/**  */)</li></ul></li></ul><h1 id="2标识符"><a class="markdownIt-Anchor" href="#2标识符"></a> 2.标识符</h1><ul><li>java所有的组成部分都需要名字。类名，变量名字以及方法名都被称为标识符。</li><li>所有的标识符都是以大小写字母，$，下划线开始（不能以数字，#之类的开头）</li><li>不能用关键字作为变量名或方法名</li><li><strong>标识符是大小写敏感的</strong></li></ul><h1 id="3数据类型"><a class="markdownIt-Anchor" href="#3数据类型"></a> 3.数据类型</h1><ul><li>强类型语言，要求变量的使用要严格符合规定，所有变量都必须先定义后才能使用</li><li>java的数据类型可以分为两类<ul><li>基本类型（primitive type）</li><li>引用类型（reference type）</li></ul></li><li>基本数据类型<ul><li>整数类型<ul><li>byte——占一个字节范围</li><li>short——占2个字节范围</li><li>int——占4个字节范围</li><li>long——占领8个字节范围，要在数字后面加个L</li></ul></li><li>浮点类型<ul><li>float ——占个4字节</li><li>double——占8个字节</li></ul></li><li>字符类型<ul><li>char——占2个字节</li></ul></li></ul></li><li>布尔数据类型——占一位其值只有true和false两个</li><li>应用数据类型、<ul><li>类</li><li>接口</li><li>数组</li></ul></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;1注释&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1注释&quot;&gt;&lt;/a&gt; 1.注释&lt;/h1&gt;
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;1注释&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1注释&quot;&gt;&lt;/a&gt; 1.注释&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;注释不会被执行，书写注释是一个非常好的习惯
 &lt;ul&gt;
-&lt;li&gt;单行注释 (//文字)&lt;/li&gt;
-&lt;li&gt;多行注释（/* 文字
+&lt;li&gt;单行注释 (//文字)&lt;/
       
     
     </summary>
@@ -75,18 +76,19 @@
     <link href="http://yoursite.com/2021/02/06/JAVA%E5%85%A5%E9%97%A8%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
     <id>http://yoursite.com/2021/02/06/JAVA%E5%85%A5%E9%97%A8%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</id>
     <published>2021-02-06T06:05:51.000Z</published>
-    <updated>2021-02-06T06:19:02.476Z</updated>
+    <updated>2021-05-29T11:17:22.116Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="一卸载jdk"><a class="markdownIt-Anchor" href="#一卸载jdk"></a> 一.卸载JDK</h1><ul><li><p>删除JAVA的安装目录（环境变量里找JAVA_HOME，Java的安装目录，直接删除整个文件夹）</p></li><li><p>删除JAVA_HOME（删除环境变量）</p></li><li><p>删除path下关于java的目录</p></li><li><p>cmd运行java　-version</p></li></ul><h1 id="二安装jdk"><a class="markdownIt-Anchor" href="#二安装jdk"></a> 二.安装JDK</h1><ul><li><p>百度搜索JDK8找到对应的版本下载</p></li><li><p><strong>记住安装路径</strong></p></li><li><p>配置环境变量</p><p>1.我的电脑——右击——属性</p><p>2.环境变量——JAVA_HOME</p><p>3.配置path变量（1.%JAVA_HOME%\bin</p><p>2.%JAVA_HOME%\jre\bin  ）</p></li><li><p>cmd运行java　-version检查是否安装成功</p></li></ul><h1 id="三第一个程序"><a class="markdownIt-Anchor" href="#三第一个程序"></a> 三.第一个程序</h1><ul><li><p>编写代码</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Hello</span></span>&#123;</span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span></span>&#123;</span><br><span class="line">System.out.print(<span class="string">"Hello,Word!"</span>);</span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li><li><p>编译javac java文件（cmd该文件路径），会生成一个class文件</p></li><li><p>运行class文件，java class文件</p><p><img src="C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210206140020565.png" alt="image-20210206140020565" /></p></li><li><p><strong>可能遇到的问题</strong></p><ul><li><p>每个单词的大小写不能出现问题，<strong>java是大小写敏感的</strong></p></li><li><p>尽量使用英文</p></li><li><p>文件名和类名必须保持一致</p></li><li><p>符号使用了中文</p></li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<a id="more"></a><h1 id="一卸载jdk"><a class="markdownIt-Anchor" href="#一卸载jdk"></a> 一.卸载JDK</h1><ul><li><p>删除JAVA的安装目录（环境变量里找JAVA_HOME，Java的安装目录，直接删除整个文件夹）</p></li><li><p>删除JAVA_HOME（删除环境变量）</p></li><li><p>删除path下关于java的目录</p></li><li><p>cmd运行java　-version</p></li></ul><h1 id="二安装jdk"><a class="markdownIt-Anchor" href="#二安装jdk"></a> 二.安装JDK</h1><ul><li><p>百度搜索JDK8找到对应的版本下载</p></li><li><p><strong>记住安装路径</strong></p></li><li><p>配置环境变量</p><p>1.我的电脑——右击——属性</p><p>2.环境变量——JAVA_HOME</p><p>3.配置path变量（1.%JAVA_HOME%\bin</p><p>2.%JAVA_HOME%\jre\bin  ）</p></li><li><p>cmd运行java　-version检查是否安装成功</p></li></ul><h1 id="三第一个程序"><a class="markdownIt-Anchor" href="#三第一个程序"></a> 三.第一个程序</h1><ul><li><p>编写代码</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Hello</span></span>&#123;</span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span></span>&#123;</span><br><span class="line">System.out.print(<span class="string">"Hello,Word!"</span>);</span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li><li><p>编译javac java文件（cmd该文件路径），会生成一个class文件</p></li><li><p>运行class文件，java class文件</p><p><img src="C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210206140020565.png" alt="image-20210206140020565" /></p></li><li><p><strong>可能遇到的问题</strong></p><ul><li><p>每个单词的大小写不能出现问题，<strong>java是大小写敏感的</strong></p></li><li><p>尽量使用英文</p></li><li><p>文件名和类名必须保持一致</p></li><li><p>符号使用了中文</p></li></ul></li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;一卸载jdk&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一卸载jdk&quot;&gt;&lt;/a&gt; 一.卸载JDK&lt;/h1&gt;
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;一卸载jdk&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一卸载jdk&quot;&gt;&lt;/a&gt; 一.卸载JDK&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;删除JAVA的安装目录（环境变量里找JAVA_HOME，Java的安装目录，直接删除整个文件夹）&lt;
+&lt;p&gt;删除JAVA的安装目录（环境变量里找JAVA_HOME，Jav
       
     
     </summary>
