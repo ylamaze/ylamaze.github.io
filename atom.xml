@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-06-26T15:54:57.358Z</updated>
+  <updated>2021-06-26T17:12:28.414Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2021/06/26/%E5%BF%86%E9%98%BB/"/>
     <id>http://yoursite.com/2021/06/26/%E5%BF%86%E9%98%BB/</id>
     <published>2021-06-26T15:13:54.000Z</published>
-    <updated>2021-06-26T15:54:57.358Z</updated>
+    <updated>2021-06-26T17:12:28.414Z</updated>
     
-    <content type="html"><![CDATA[<p>没想到耽搁了这么多时间，到现在才开始。行百里者半九十，从今天开始每天要坚持阅读论文1小时。</p><a id="more"></a><h1 id="忆阻器"><a class="markdownIt-Anchor" href="#忆阻器"></a> 忆阻器</h1><ul><li><p>忆阻器概念</p></li><li><p>忆阻器特征</p></li><li><p>如何判断是否为忆阻器</p></li><li><p>忆阻器模型分类（如何分类以及缺陷）</p><p>新忆阻器模型的提出</p></li></ul><h1 id="混沌"><a class="markdownIt-Anchor" href="#混沌"></a> 混沌</h1><ul><li>混沌的概念</li><li>混沌的特征</li><li>如何判断系统是否存在混沌现象</li><li>怎么通过理论分析和仿真模拟展示混沌行为</li></ul><h1 id="忆阻神经网络"><a class="markdownIt-Anchor" href="#忆阻神经网络"></a> 忆阻神经网络</h1><ul><li>忆阻神经网络的概念</li><li>忆阻神经网络研究的理论意义</li><li>忆阻神经网络研究的应用意义</li></ul><h1 id="改进"><a class="markdownIt-Anchor" href="#改进"></a> 改进</h1><ul><li>这些研究工作有哪些可以改进的具体地方，如何在次基础上做一些改进</li></ul><ol><li>什么是忆阻器？忆阻器有哪些特征？如何判断一个器件是否为忆阻器？已有的忆阻器模型有哪些，如何分类，有哪些缺陷？怎么提出一个新的忆阻器模型？</li><li>什么是混沌？混沌有哪些特征？如何判断系统是否存在混沌现象及怎么通过理论分析和仿真模拟展示混沌行为？</li><li>什么是忆阻神经网络？忆阻神经网络的研究意义是什么(理论和应用两方面)？</li><li>思考论文中涉及到的相关技术和方法是否能够自行实现？</li><li>这些研究工作有哪些可以改进的具体地方，如何在次基础上做一些改进，这一点最为重要。做好相关笔记。</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>没想到耽搁了这么多时间，到现在才开始。行百里者半九十，从今天开始每天要坚持阅读论文1小时。</p><a id="more"></a><h1 id="忆阻器"><a class="markdownIt-Anchor" href="#忆阻器"></a> 忆阻器</h1><ul><li><strong>忆阻器概念</strong></li><li></li><li><strong>忆阻器特征</strong></li><li><strong>如何判断是否为忆阻器</strong></li><li><strong>忆阻器模型分类（如何分类以及缺陷）</strong></li><li><strong>新忆阻器模型的提出</strong></li></ul><h1 id="混沌"><a class="markdownIt-Anchor" href="#混沌"></a> 混沌</h1><ul><li><strong>混沌的概念</strong></li><li><strong>混沌的特征</strong></li><li><strong>如何判断系统是否存在混沌现象</strong></li><li><strong>怎么通过理论分析和仿真模拟展示混沌行为</strong></li></ul><h1 id="忆阻神经网络"><a class="markdownIt-Anchor" href="#忆阻神经网络"></a> 忆阻神经网络</h1><ul><li><strong>忆阻神经网络的概念</strong></li><li><strong>忆阻神经网络研究的理论意义</strong></li><li><strong>忆阻神经网络研究的应用意义</strong></li></ul><h1 id="改进"><a class="markdownIt-Anchor" href="#改进"></a> 改进</h1><ul><li><strong>这些研究工作有哪些可以改进的具体地方，如何在次基础上做一些改进</strong></li></ul><ol><li>什么是忆阻器？忆阻器有哪些特征？如何判断一个器件是否为忆阻器？已有的忆阻器模型有哪些，如何分类，有哪些缺陷？怎么提出一个新的忆阻器模型？</li><li>什么是混沌？混沌有哪些特征？如何判断系统是否存在混沌现象及怎么通过理论分析和仿真模拟展示混沌行为？</li><li>什么是忆阻神经网络？忆阻神经网络的研究意义是什么(理论和应用两方面)？</li><li>思考论文中涉及到的相关技术和方法是否能够自行实现？</li><li>这些研究工作有哪些可以改进的具体地方，如何在次基础上做一些改进，这一点最为重要。做好相关笔记。</li></ol>]]></content>
     
     <summary type="html">
     
