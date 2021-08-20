@@ -208,14 +208,14 @@
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'bolg-6gokt0ya8bdb4e5b',
+      envId: 'https://twikoo-puce-phi.vercel.app/',
       region: ''
-    }, null))
+    }, "window.TWIKOO_MAGIC_PATH||window.location.pathname"))
   }
 
   const getCount = () => {
     twikoo.getCommentsCount({
-      envId: 'bolg-6gokt0ya8bdb4e5b',
+      envId: 'https://twikoo-puce-phi.vercel.app/',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
