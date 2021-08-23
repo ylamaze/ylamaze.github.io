@@ -13,6 +13,15 @@
   pointer-events: none;
   z-index: -1;
 }
-#body-wrap{
+#page-header {
+	    filter: opacity(0.0);
+}
+#aside-content .card-widget{
 	filter: opacity(0.0);
+}
+#recent-posts>.recent-post-item, .layout>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post {
+    background: rgba(255,255,255,.0);
+}
+#web_bg {
+    background: rgb(53 53 53) !important;
 }
