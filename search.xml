@@ -332,19 +332,6 @@
     
     
     <entry>
-      <title>music</title>
-      <link href="/2018/09/25/music/"/>
-      <url>/2018/09/25/music/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><!-- 简单示例 (id, server, type)  -->    <div id="aplayer-sUdJiiWn" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2597489971" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><!-- 进阶示例 -->    <div id="aplayer-zoeXLEHF" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="2597489971" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>用云服务器搭架hexo个人博客</title>
       <link href="/2018/09/24/%E7%94%A8%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E6%9E%B6hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
       <url>/2018/09/24/%E7%94%A8%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E6%9E%B6hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
