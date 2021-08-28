@@ -20,7 +20,7 @@
 #recent-posts > .recent-post-item .post_cover img.post_bg {
 		filter: opacity(0.9);
 }
-#aside-content > .card-widget:first-child{
+#aside-content > .card-widget:first-child{ 
 	 background: rgba(255,255,255,.4);
 	
 }
@@ -28,5 +28,8 @@
 	background: rgba(255,255,255,.4);
 }
 #bbTimeList {
+	background: rgba(255,255,255,.4) !important;
+}
+#footer-wrap {
 	background: rgba(255,255,255,.4) !important;
 }
