@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>宝塔面板部署hexo</title>
+      <link href="/posts/35268/"/>
+      <url>/posts/35268/</url>
+      
+        <content type="html"><![CDATA[<p>   偶然看到宝塔相关内容，觉得方便建站和管理，学习了一下宝塔面板部署hexo,特此记录。</p><h1 id="安装宝塔（centos）"><a href="#安装宝塔（centos）" class="headerlink" title="安装宝塔（centos）"></a>安装宝塔（centos）</h1><p>yum install -y wget &amp;&amp; wget -O install.sh <a href="http://download.bt.cn/install/install_6.0.sh">http://download.bt.cn/install/install_6.0.sh</a> &amp;&amp; sh install.sh</p><p>安装完成后，登录宝塔，首次登陆会提示我们安装环境，我们勾选Nginx即可。之后，我们在home文件夹下新建git，hexo这两个文件夹。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> Git </tag>
+            
+            <tag> Nginx </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Tag Plugins Plus</title>
       <link href="/posts/41070/"/>
       <url>/posts/41070/</url>
@@ -181,9 +210,9 @@
       
         <tags>
             
-            <tag> github </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> github </tag>
             
         </tags>
       
