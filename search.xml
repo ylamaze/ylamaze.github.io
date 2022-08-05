@@ -4,38 +4,6 @@
   
     
     <entry>
-      <title>51单片机</title>
-      <link href="/posts/27310/"/>
-      <url>/posts/27310/</url>
-      
-        <content type="html"><![CDATA[<p>研一不知不觉就消失了，不能止步于此 ，以51开始努力学习新知识。</p><span id="more"></span><h1 id="绪论"><a href="#绪论" class="headerlink" title="绪论"></a>绪论</h1>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>研一上学期回顾</title>
-      <link href="/posts/47099/"/>
-      <url>/posts/47099/</url>
-      
-        <content type="html"><![CDATA[<p>​       第一次来交大天很蓝，树很绿，阳光很明媚，我想我的研究生生活就应该像夏天，热烈、充满激情。那是和老师第一次见面，我带回了四篇关于忆阻器的论文。 随后一次和老师讨论是入学之后 ，当时智捷也在一起。我们被问了一个问题，“什么是忆阻器？”我还记得我们的回答，“是非线性的”、“有记忆性的电阻”等等。我想我的总结就该问问自己，什么是忆阻器，通过对忆阻器的理解来总结我这半年的工作和心路历程或许会更有意义。</p><p>​       9月份我看了许多忆阻器的文章，有中文有英文。看了很多忆阻器模型，如HP的忆阻器模型，自旋忆阻器等。这个阶段，我对忆阻器的理解就是物理元器件，所以我花了大量时间去了解各个模型的特性。特别是惠普的忆阻器模型，从它的物理结构到数学表达，数学表达是怎么推导出来的。在此期间也积累了很多忆阻器的特性，比如，忆阻器端口的伏安特性是具有类似倾斜“8”字特性的滞回特性，断电非易失性，类突触性等等。当时我认为我工作就是能为一个物理模型找到一个更合理的表达，或者是怎么更好的用电路来实现忆阻器。这是我最苦闷的一段时间，看不懂论文，大量的概念涌入脑中却消化理解不了。</p><p>​        国庆回来之后，我完整的看完了两篇对于忆阻电路的磁通-电荷分析法。这是我第一次接触英文期刊，很痛苦，大量的公式夹杂着英文，但我记得老师说过，“要先精读一两篇”。我尝试着反复的阅读 Mauro的一篇对于磁通电荷分析法较为典型的一篇论文，每次坚持看完我都发现自己会有新的收获，慢慢的我也转变了对忆阻器的理解，那时候我觉得忆阻器是一个数学表达，我应关注如何提出新的方法分析它或者如何完美的运用Mauro的磁通电荷分析法来分析忆阻电路。10月份我学到了很多，不仅仅是上述思想的转变，更重要的是在老师指导下我知道了怎么去阅读论文，怎么去提取一篇论文中有用的信息。学会了去探寻别人发一系列论文思路，能够看清别人论文的结构，分析方法，写论文的思路。这是弥足珍贵的，虽然最后并没有沿着Mauro的思路往下探寻，但这个月的学习对我来说算是真正意义上科研的开端。我好像有些入门了。</p><p>​        10月底我开始接触离散忆阻器和混沌，我收到了老师发我的11篇包老师的文章。有了之前的经验，我很快就进入了状态，从一篇较为简单的论文开始入手，精读此文后，我把剩下的论文都大略的看了一遍。我整理出来的是，混沌的产生需要多个非线性项的支撑，而忆阻器如何和其他非线性项结合应该是我思考的方向。到了11月，我开始动手了，我想复现最开始精读的论文里模型产生的现象。从最简单的分岔图、时序图和相图开始到后面困扰了我不少时间的李指数图。结合师姐给的代码和网上找到的，慢慢的积累了我自己的一套分析非线性动力学的工具。有了这一套工具后，我便开始有些迫不及待了，我特别期待在忆阻器和其他映射的耦合上能出现混沌的现象。我发了疯狂一样漫无目的去试，我尝试了很多的一维映射，Sine 映射、Circle 映射、Cubic 映射、Feigenbaum超越方程等等。但都没有出现令人满意的结果，我把一些能产生混沌的参数和系统都记录了下来，总共12个word。我记得老师和我说过，“先存下来 ，以后可能会用的上。”我也相信我这样努力不会白费，虽然我可能用错了方式。事实证明是对的，在后来在给刘源提系统的时候我返回去参考之前的系统很快就有了想法。久久没有想法，在老师的建议下，我们开始统计近年里论文中的系统，在这个礼拜里我看了大量的系统，虽然最后还是没有解决想法问题，但多少也让我掌握了快速阅读找想法的能力。我还记得老师那时候和我说，“找的系统都太普通，没有特点”。我便自己开始新一轮找映射的工作，也很幸运最后找到了一个契合的映射。</p><p>​        从11月20 号我开始写我的第一篇论文到今天已经43天了，反复翻看目前写的短短4页不到，我发现自己效率太低了，22年的第二天，我的愿望就是能快速写完这篇论文。22年我想能够更加系统的掌握对混沌的分析，包括NIST测试和KE、CD，同时把电路设计做的更好。</p><p>2022年2月2日</p><p>杨亮</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 生活 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>宝塔面板部署hexo</title>
       <link href="/posts/35268/"/>
       <url>/posts/35268/</url>
@@ -157,56 +125,6 @@
     
     
     <entry>
-      <title>JAVA 基础语法学习</title>
-      <link href="/posts/7081/"/>
-      <url>/posts/7081/</url>
-      
-        <content type="html"><![CDATA[<p>基础语法</p><span id="more"></span><h1 id="1-注释"><a href="#1-注释" class="headerlink" title="1.注释"></a>1.注释</h1><ul><li>注释不会被执行，书写注释是一个非常好的习惯<ul><li>单行注释 (//文字)</li><li>多行注释（/<em> 文字 </em>/）</li><li>文档注释,JavaDoc(/<em>*  </em>/)</li></ul></li></ul><h1 id="2-标识符"><a href="#2-标识符" class="headerlink" title="2.标识符"></a>2.标识符</h1><ul><li>java所有的组成部分都需要名字。类名，变量名字以及方法名都被称为标识符。</li><li>所有的标识符都是以大小写字母，$，下划线开始（不能以数字，#之类的开头）</li><li>不能用关键字作为变量名或方法名</li><li><strong>标识符是大小写敏感的</strong> </li></ul><h1 id="3-数据类型"><a href="#3-数据类型" class="headerlink" title="3.数据类型"></a>3.数据类型</h1><ul><li>强类型语言，要求变量的使用要严格符合规定，所有变量都必须先定义后才能使用</li><li>java的数据类型可以分为两类<ul><li>基本类型（primitive type）</li><li>引用类型（reference type）</li></ul></li><li>基本数据类型<ul><li>整数类型<ul><li>byte——占一个字节范围</li><li>short——占2个字节范围</li><li>int——占4个字节范围</li><li>long——占领8个字节范围，要在数字后面加个L</li></ul></li><li>浮点类型<ul><li>float ——占个4字节</li><li>double——占8个字节</li></ul></li><li>字符类型<ul><li>char——占2个字节</li></ul></li></ul></li><li>布尔数据类型——占一位其值只有true和false两个</li><li>应用数据类型、<ul><li>类</li><li>接口</li><li>数组</li></ul></li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> 学习 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>JAVA入门环境搭建</title>
-      <link href="/posts/23957/"/>
-      <url>/posts/23957/</url>
-      
-        <content type="html"><![CDATA[<p>软件安装</p><span id="more"></span><h1 id="一-卸载JDK"><a href="#一-卸载JDK" class="headerlink" title="一.卸载JDK"></a>一.卸载JDK</h1><ul><li>删除JAVA的安装目录（环境变量里找JAVA_HOME，Java的安装目录，直接删除整个文件夹）</li><li>删除JAVA_HOME（删除环境变量） </li><li>删除path下关于java的目录</li><li>cmd运行java　-version</li></ul><h1 id="二-安装JDK"><a href="#二-安装JDK" class="headerlink" title="二.安装JDK"></a>二.安装JDK</h1><ul><li><p>百度搜索JDK8找到对应的版本下载</p></li><li><p><strong>记住安装路径</strong></p></li><li><p>配置环境变量</p><p>1.我的电脑——右击——属性</p><p>2.环境变量——JAVA_HOME</p><p>3.配置path变量（1.%JAVA_HOME%\bin  </p><p>2.%JAVA_HOME%\jre\bin  ）</p></li><li><p>cmd运行java　-version检查是否安装成功</p></li></ul><h1 id="三-第一个程序"><a href="#三-第一个程序" class="headerlink" title="三.第一个程序"></a>三.第一个程序</h1><ul><li><p>编写代码</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Hello</span></span>&#123;</span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span></span>&#123;</span><br><span class="line">System.out.print(<span class="string">&quot;Hello,Word!&quot;</span>);</span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li></ul><ul><li><p>编译javac java文件（cmd该文件路径），会生成一个class文件</p></li><li><p>运行class文件，java class文件</p><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210206140020565.png" alt="image-20210206140020565"></p></li><li><p><strong>可能遇到的问题</strong></p><ul><li><p>每个单词的大小写不能出现问题，<strong>java是大小写敏感的</strong></p></li><li><p>尽量使用英文 </p></li><li><p>文件名和类名必须保持一致</p></li><li><p>符号使用了中文</p></li></ul></li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> 学习 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>采蘑菇</title>
       <link href="/posts/29859/"/>
       <url>/posts/29859/</url>
@@ -230,7 +148,7 @@
       <link href="/posts/50407/"/>
       <url>/posts/50407/</url>
       
-        <content type="html"><![CDATA[<p>之前的云服务器没了，太贵了续费不起。github搭建hexo博客是不需要花钱的，以免以后忘记这个白嫖的方法<font color="blue">（白嫖不爽吗？）</font>，详细记录下来。<br><span id="more"></span></p><h2 id="用GitHub搭建博客的好处"><a href="#用GitHub搭建博客的好处" class="headerlink" title="用GitHub搭建博客的好处"></a>用GitHub搭建博客的好处<br></h2><ul><li>全是静态文件，访问速度快<br></li><li>免费方便，不用花一分钱就可以搭建一个自由的个人博客，不需要服务器不需要后台<br></li><li>可以随意绑定自己的域名，不仔细看的话根本看不出来你的网站是基于github的<br></li><li>数据绝对安全，基于github的版本管理，想恢复到哪个历史版本都行<br></li><li>博客内容可以轻松打包、转移、发布到其它平台<br></li></ul><h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作<br></h2><ul><li>有一个github账号<br></li><li>安装了node.js、npm，git for windows并了解相关基础知识；<br></li></ul><h2 id="搭建Github博客"><a href="#搭建Github博客" class="headerlink" title="搭建Github博客"></a>搭建Github博客<br></h2><h3 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库<br></h3><ul><li>新建一个名为你的用户名.github.io的仓库，比如说，如果你的github用户名是test，那么你就新建test.github.io的仓库<font color='blue'>必须是你的用户名，其它名称无效）</font>，将来你的网站访问地址就是<a href="http://test.github.io">http://test.github.io</a> 了，每一个github账户最多只能创建一个这样可以直接使用域名访问的仓库。<br></li><li>注册的邮箱要验证，仓库的名字必须是：username.github.io,其中username就是你github的用户名，创建完仓库不一定立马成功，有时需要等待一下。<br><br><img src="https://a-maze.oss-cn-shenzhen.aliyuncs.com/myblog/9%40ST4M%24E31H%28FO%7BC8%5D56T%29M.png" alt=""><br></li></ul><h2 id="配置SSH-Key"><a href="#配置SSH-Key" class="headerlink" title="配置SSH Key"></a>配置SSH Key<br></h2><ul><li>SSH Key 用于本地与GitHub的连接。<br></li><li>在CMD或者用 git bash here 运行代码：<code>ssh-keygen -t rsa -C &quot;邮件地址&quot;</code>然后连续3次回车，最终会生成一个文件在用户目录下，打开C盘的用户目录，找到.ssh\id_rsa.pub文件，记事本打开并复制里面的内容，打开你的github主页，进入个人设置 -&gt; SSH and GPG keys -&gt; New SSH key：将复制内容粘贴到key里面<font color="blue">(Title 随便填写)</font><br><br><img src="https://a-maze.oss-cn-shenzhen.aliyuncs.com/myblog/K5200A%7E%29VZLUD%5B%5DWM86S%7BMJ.png" alt=""><br><img src="https://a-maze.oss-cn-shenzhen.aliyuncs.com/myblog/%5BND%25MRCL3%40P%40_UQQV%29HLG%602.png" alt=""><br></li><li><p>测试SSH Key是否配置成功<br><br><code>ssh -T git@github.com # 注意邮箱地址不用改</code><br><br>如果提示Are you sure you want to continue connecting (yes/no)?，输入yes，然后会看到：</p><blockquote><p>Hi liuxianan! You’ve successfully authenticated, <br><br>but GitHub does not provide shell access.<br><br>看到这个说明配置成功，然后你还需要配置:<br><code>git config --global user.name &quot;liuxianan&quot;// 你的github用户名，非昵称</code><br><code>git config --global user.email  &quot;xxx@qq.com&quot;// 填写你的github注册邮箱</code></p><h2 id="hexo的安装"><a href="#hexo的安装" class="headerlink" title="hexo的安装"></a>hexo的安装<br></h2></blockquote></li><li><p>安装<br><code>npm install -g hexo</code></p></li><li>在需要保存博客的文件夹里git bash here运行下面代码,将hexo的文件保存在里面。会在本地文件夹生成下图的文件。<br><code>hexo init</code><br><img src="https://a-maze.oss-cn-shenzhen.aliyuncs.com/myblog/9M%40VDBEY%251%7DU7JJQSDKR%5D52.png" alt=""><br></li></ul><h2 id="hexo部署到github上"><a href="#hexo部署到github上" class="headerlink" title="hexo部署到github上"></a>hexo部署到github上<br></h2><ul><li>清除缓存 <font color="blue">（进入本地博客目录）</font><br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hello clean</span><br></pre></td></tr></table></figure></li><li>生成静态页面<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>可以简写成：hexo g<br></li><li>将本地静态页面目录部署到云服务器<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>可以简写成：hexo g<br></li></ul><h2 id="个人绑定域名"><a href="#个人绑定域名" class="headerlink" title="个人绑定域名"></a>个人绑定域名<br></h2><p><strong>不绑定域名，直接用xxx.github.io访问也是可以的。如果你想更加有个性（装逼），就请看这部分内容，不需要个性的可以直接跳过</strong><br></p><ul><li>注册域名<br>首先你得注册域名。域名注册可以自行百度，本人在阿里云注册的，价格不贵（第一年），不过国内的域名备案很麻烦。<br></li><li>GitHub仓库的设置<br>我们希望在访问这个域名时能自动进入 Github Pages，进而访问我们的博客。所以我们要在万网建立一个CNAME纪录（将域名指向另一个域名）来帮我们做一个域名跳转，其实就是个重定向的过程。由于 Github Pages ，<font color="blue">只允许最多一个域名重定向到自己的地址</font>，所以需要在你的 XXXX.github.io 仓库的设置中添加你刚刚注册的个人域名。看图：<br><img src="https://a-maze.oss-cn-shenzhen.aliyuncs.com/myblog/IAJ8OZ_RIFAW7ODDG0M8%5BV3.png" alt=""><br><font color="red">注意：当你在github仓库里保存好了自己的域名，便会在你的仓库里生成一个名字是CNAME的文件，你需要把他下载到本地，将它放在你本地存放博客文件里面的source文件下。</font>（原因是：Hexo 3每次生成静态网页会完全覆盖之前的内容。如果我们直接创建一个新文件CNAME，填好域名，然后部署，会发现在下一次部署后这个文件就消失了，因为 HEXO 并不会自动生成 CNAME 文件，所以在部署时被覆盖删除了。放在source文件夹下它就不会被被删除。当然还有其他方法做到，可以自行百度，但我觉得这是最简单的方法。)<br></li><li>域名解析<br>1.添加解析：<br><br>记录类型选择 CNAME<br><br>主机记录填 www<br><br>解析线路选择默认<br><br>记录值填 yourname.github.io<br><br>TTL 值为 10 分钟<br><br>2.再添加一个解析：<br><br>记录类型为 A<br><br>主机记录填 @<br><br>解析线路选择默认<br><br>记录值填你 GitHub 仓库的 ip 地址（在cmd中ping）<br></li></ul>]]></content>
+        <content type="html"><![CDATA[<p>之前的云服务器没了，太贵了续费不起。github搭建hexo博客是不需要花钱的，以免以后忘记这个白嫖的方法<font color="blue">（白嫖不爽吗？）</font>，详细记录下来。<br><span id="more"></span></p><h2 id="用GitHub搭建博客的好处"><a href="#用GitHub搭建博客的好处" class="headerlink" title="用GitHub搭建博客的好处"></a>用GitHub搭建博客的好处<br></h2><ul><li>全是静态文件，访问速度快<br></li><li>免费方便，不用花一分钱就可以搭建一个自由的个人博客，不需要服务器不需要后台<br></li><li>可以随意绑定自己的域名，不仔细看的话根本看不出来你的网站是基于github的<br></li><li>数据绝对安全，基于github的版本管理，想恢复到哪个历史版本都行<br></li><li>博客内容可以轻松打包、转移、发布到其它平台<br></li></ul><h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作<br></h2><ul><li>有一个github账号<br></li><li>安装了node.js、npm，git for windows并了解相关基础知识；<br></li></ul><h2 id="搭建Github博客"><a href="#搭建Github博客" class="headerlink" title="搭建Github博客"></a>搭建Github博客<br></h2><h3 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库<br></h3><ul><li>新建一个名为你的用户名.github.io的仓库，比如说，如果你的github用户名是test，那么你就新建test.github.io的仓库<font color='blue'>必须是你的用户名，其它名称无效）</font>，将来你的网站访问地址就是<a href="http://test.github.io">http://test.github.io</a> 了，每一个github账户最多只能创建一个这样可以直接使用域名访问的仓库。<br></li><li>注册的邮箱要验证，仓库的名字必须是：username.github.io,其中username就是你github的用户名，创建完仓库不一定立马成功，有时需要等待一下。<br><br><img src="https://a-maze.oss-cn-shenzhen.aliyuncs.com/myblog/GITHUB%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/1.png" alt=""><br></li></ul><h2 id="配置SSH-Key"><a href="#配置SSH-Key" class="headerlink" title="配置SSH Key"></a>配置SSH Key<br></h2><ul><li>SSH Key 用于本地与GitHub的连接。<br></li><li>在CMD或者用 git bash here 运行代码：<code>ssh-keygen -t rsa -C &quot;邮件地址&quot;</code>然后连续3次回车，最终会生成一个文件在用户目录下，打开C盘的用户目录，找到.ssh\id_rsa.pub文件，记事本打开并复制里面的内容，打开你的github主页，进入个人设置 -&gt; SSH and GPG keys -&gt; New SSH key：将复制内容粘贴到key里面<font color="blue">(Title 随便填写)</font><br><br><img src="https://a-maze.oss-cn-shenzhen.aliyuncs.com/myblog/GITHUB%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/2.png" alt=""><br><img src="https://a-maze.oss-cn-shenzhen.aliyuncs.com/myblog/GITHUB%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/3.png" alt=""><br></li><li><p>测试SSH Key是否配置成功<br><br><code>ssh -T git@github.com # 注意邮箱地址不用改</code><br><br>如果提示Are you sure you want to continue connecting (yes/no)?，输入yes，然后会看到：</p><blockquote><p>Hi liuxianan! You’ve successfully authenticated, <br><br>but GitHub does not provide shell access.<br><br>看到这个说明配置成功，然后你还需要配置:<br><code>git config --global user.name &quot;liuxianan&quot;// 你的github用户名，非昵称</code><br><code>git config --global user.email  &quot;xxx@qq.com&quot;// 填写你的github注册邮箱</code></p><h2 id="hexo的安装"><a href="#hexo的安装" class="headerlink" title="hexo的安装"></a>hexo的安装<br></h2></blockquote></li><li><p>安装<br><code>npm install -g hexo</code></p></li><li>在需要保存博客的文件夹里git bash here运行下面代码,将hexo的文件保存在里面。会在本地文件夹生成下图的文件。<br><code>hexo init</code><br><img src="https://a-maze.oss-cn-shenzhen.aliyuncs.com/myblog/GITHUB%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/4.png" alt=""><br></li></ul><h2 id="hexo部署到github上"><a href="#hexo部署到github上" class="headerlink" title="hexo部署到github上"></a>hexo部署到github上<br></h2><ul><li>清除缓存 <font color="blue">（进入本地博客目录）</font><br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hello clean</span><br></pre></td></tr></table></figure></li><li>生成静态页面<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>可以简写成：hexo g<br></li><li>将本地静态页面目录部署到云服务器<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>可以简写成：hexo g<br></li></ul><h2 id="个人绑定域名"><a href="#个人绑定域名" class="headerlink" title="个人绑定域名"></a>个人绑定域名<br></h2><p><strong>不绑定域名，直接用xxx.github.io访问也是可以的。如果你想更加有个性（装逼），就请看这部分内容，不需要个性的可以直接跳过</strong><br></p><ul><li>注册域名<br>首先你得注册域名。域名注册可以自行百度，本人在阿里云注册的，价格不贵（第一年），不过国内的域名备案很麻烦。<br></li><li>GitHub仓库的设置<br>我们希望在访问这个域名时能自动进入 Github Pages，进而访问我们的博客。所以我们要在万网建立一个CNAME纪录（将域名指向另一个域名）来帮我们做一个域名跳转，其实就是个重定向的过程。由于 Github Pages ，<font color="blue">只允许最多一个域名重定向到自己的地址</font>，所以需要在你的 XXXX.github.io 仓库的设置中添加你刚刚注册的个人域名。看图：<br><img src="https://a-maze.oss-cn-shenzhen.aliyuncs.com/myblog/GITHUB%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/5.png" alt=""><br><font color="red">注意：当你在github仓库里保存好了自己的域名，便会在你的仓库里生成一个名字是CNAME的文件，你需要把他下载到本地，将它放在你本地存放博客文件里面的source文件下。</font>（原因是：Hexo 3每次生成静态网页会完全覆盖之前的内容。如果我们直接创建一个新文件CNAME，填好域名，然后部署，会发现在下一次部署后这个文件就消失了，因为 HEXO 并不会自动生成 CNAME 文件，所以在部署时被覆盖删除了。放在source文件夹下它就不会被被删除。当然还有其他方法做到，可以自行百度，但我觉得这是最简单的方法。)<br></li><li>域名解析<br>1.添加解析：<br><br>记录类型选择 CNAME<br><br>主机记录填 www<br><br>解析线路选择默认<br><br>记录值填 yourname.github.io<br><br>TTL 值为 10 分钟<br><br>2.再添加一个解析：<br><br>记录类型为 A<br><br>主机记录填 @<br><br>解析线路选择默认<br><br>记录值填你 GitHub 仓库的 ip 地址（在cmd中ping）<br></li></ul>]]></content>
       
       
       <categories>
@@ -242,9 +160,9 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> github </tag>
+            
+            <tag> hexo </tag>
             
         </tags>
       
